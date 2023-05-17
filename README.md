@@ -10,6 +10,8 @@ Looking for a good read? Explore the books listed below and pick up one of these
 
 * Beginning Ruby - From Novice to Professional - Third Edition [[Read]](/books/Beginning%20Ruby%20-%20From%20Novice%20to%20Professional%20-%20Third%20Edition.pdf)
 
+* Build Awesome Command-Line Applications in Ruby [[Read]](/books/Build%20Awesome%20Command-Line%20Applications%20in%20Ruby.pdf)
+
 * Comprehensive Ruby Programming [[Read]](/books/Comprehensive%20Ruby%20Programming.pdf)
 
 * Continuous Testing - with Ruby, Rails, and JavaScript [[Read]](/books/Continuous%20Testing%20-%20with%20Ruby%2C%20Rails%2C%20and%20JavaScript.pdf)
