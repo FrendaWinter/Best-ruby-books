@@ -48,6 +48,8 @@ Looking for a good read? Explore the books listed below and pick up one of these
 
 * The Ruby Programming Language.pdf [[Read]](/books/The%20Ruby%20Programming%20Language.pdf)
 
+* The Ruby Way, Third edition.pdf [[Read]](/books/The%20Ruby%20Way%2C%20Third%20edition.pdf)
+
 ### Contributing
 
 We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
